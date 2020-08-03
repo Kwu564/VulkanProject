@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vulkan", "Vulkan\Vulkan.vcxproj", "{5EC50323-093C-48FC-9D78-185F1CE848FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EC50323-093C-48FC-9D78-185F1CE848FF}.Debug|x64.ActiveCfg = Debug|x64
+		{5EC50323-093C-48FC-9D78-185F1CE848FF}.Debug|x64.Build.0 = Debug|x64
+		{5EC50323-093C-48FC-9D78-185F1CE848FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{5EC50323-093C-48FC-9D78-185F1CE848FF}.Debug|x86.Build.0 = Debug|Win32
+		{5EC50323-093C-48FC-9D78-185F1CE848FF}.Release|x64.ActiveCfg = Release|x64
+		{5EC50323-093C-48FC-9D78-185F1CE848FF}.Release|x64.Build.0 = Release|x64
+		{5EC50323-093C-48FC-9D78-185F1CE848FF}.Release|x86.ActiveCfg = Release|Win32
+		{5EC50323-093C-48FC-9D78-185F1CE848FF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D24746D3-1F31-40E0-ABD3-D20E1E3FB111}
+	EndGlobalSection
+EndGlobal
